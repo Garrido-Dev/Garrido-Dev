@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Juan Petro!
 
-<!--
-**Garrido-Dev/Garrido-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor em formação, apaixonado por tecnologia, aprendizado contínuo e criação de soluções que fazem a diferença. Atualmente explorando o mundo do **JavaScript**, **Typescript** e **Sass**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que estou aprendendo
+
+- HTML / CSS / SASS
+- JavaScript / TypeScript
+- React / Node.js
+- Git / GitHub
+
+---
+
+## 📫 Onde me encontrar
+
+- Email: juamgarrido96@gmail.com
+
+---
+
+## 🎯 Objetivos
+
+- Aprender mais sobre desenvolvimento fullstack
+- Contribuir com projetos open source
+- Criar meu primeiro app completo
+
+---
