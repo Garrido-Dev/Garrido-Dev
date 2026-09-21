@@ -1,6 +1,9 @@
 # Olá, sou o Juan Petro
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e desenvolvedor em formação, com foco no ecossistema front-end e evolução para fullstack. Busco sempre aliar a teoria à prática, com o objetivo de construir soluções eficientes e resolver problemas reais através do código.
+Desenvolvedor Full Stack JavaScript.
+Formação: 5º e último período de Análise e Desenvolvimento de Sistemas (ADS).
+Stack Principal: React.js • Node.js • JavaScript • TypeScript.
+Foco: Criação de sistemas web escaláveis e interfaces intuitivas.
 
 ---
 
