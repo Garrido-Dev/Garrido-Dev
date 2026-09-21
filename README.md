@@ -1,9 +1,9 @@
 # Olá, sou o Juan Petro
 
-Desenvolvedor Full Stack JavaScript.
-Formação: 5º e último período de Análise e Desenvolvimento de Sistemas (ADS).
-Stack Principal: React.js • Node.js • JavaScript • TypeScript.
-Foco: Criação de sistemas web escaláveis e interfaces intuitivas.
+- Desenvolvedor Full Stack JavaScript.
+- Formação: 5º e último período de Análise e Desenvolvimento de Sistemas (ADS).
+- Stack Principal: React.js • Node.js • JavaScript • TypeScript.
+- Foco: Criação de sistemas web escaláveis e interfaces intuitivas.
 
 ---
 
